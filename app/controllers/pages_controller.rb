@@ -4,4 +4,10 @@ class PagesController < ApplicationController
 
     def about
     end
+
+    def food
+    end
+
+    def drink
+    end
 end
